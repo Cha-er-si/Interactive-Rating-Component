@@ -20,8 +20,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/product-preview-card-1e8VYRW6L9)
-- Live Site URL: [Add live site URL here](https://euphonious-starlight-2d40cc.netlify.app/)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/interactive-rating-component-qEiJYk7-qs)
+- Live Site URL: [Add live site URL here](https://interactive-rating-component-chaersi.netlify.app/)
 
 ## My process
 
